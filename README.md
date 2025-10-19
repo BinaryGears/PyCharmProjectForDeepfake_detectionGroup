@@ -18,6 +18,8 @@ Download PyCharm IDE and open the project folder. Configure the project to use t
 <br></br>
 The good thing is that now you can just use the IDE to pull in the proper dependencies that should work.
 <br></br>
+If you don't want to use PyCharm, or are on some Linux distro, I would recommend using miniconda to get the proper version of python and gather the dependencies.
+<br></br>
 <br></br>
 Run the MakeCSV.py file: ```python MakeCSV.py```
 <br></br>
