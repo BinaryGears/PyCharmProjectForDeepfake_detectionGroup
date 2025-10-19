@@ -1,7 +1,7 @@
 # Background of this project
 This project was completed for my Computer Science capstone. 
 <br></br>
-I found the research paper for the CNN referred to as the original CNN model that inspired me to make a better CNN that worked on larger images and used a smaller more relavant part of the image during training. 
+I found the research paper for the CNN, referred to as the original CNN, that inspired me to make a better CNN that worked on larger images and used a smaller more relavant part of the image during training. 
 <br></br>
 The papers on PReLU and Seperable Convolution layers were used in the design of the new CNN.
 <br></br>
