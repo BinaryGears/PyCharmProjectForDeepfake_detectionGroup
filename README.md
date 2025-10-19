@@ -6,13 +6,6 @@ I found the research paper for the CNN, referred to as the original CNN, that in
 The papers on PReLU and Seperable Convolution layers were used in the design of the new CNN.
 <br></br>
 <br></br>
-# KerasDeepFakeDetection Credits
-The original CNN model is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
-<br></br>
-The PReLU function paper is here: https://arxiv.org/pdf/1502.01852
-<br></br>
-The Seperable Convolution layer paper: https://arxiv.org/pdf/1610.02357/1000
-<br></br>
 # How to use
 Download PyCharm IDE and open the project folder. Configure the project to use the latest version of python 3.11
 <br></br>
@@ -37,5 +30,22 @@ You can use the model files in a variety of ways, but the DeepFakeFinder.py file
 <br></br>
 The heatmap files are used to show what pixels in the image are being used, and what size, at a certain step. The idea was that my CNN was using a much smaller part of the image, and focusing on things like the eyes, ears, and hands, on images that started out much larger than the original CNN was taking in.
 <br></br>
-<br></br>
 Link to original repository: https://github.com/BinaryGears/KerasDeepFakeDetection/
+<br></br>
+<br></br>
+# KerasDeepFakeDetection Credits
+The original CNN model is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
+<br></br>
+The PReLU function paper is here: https://arxiv.org/pdf/1502.01852
+<br></br>
+The Seperable Convolution layer paper: https://arxiv.org/pdf/1610.02357/1000
+<br></br>
+Visualkeras citation: @misc{Gavrikov2020VisualKeras,<br></br>
+  author = {Gavrikov, Paul},<br></br>
+  title = {visualkeras},<br></br>
+  year = {2020},<br></br>
+  publisher = {GitHub},<br></br>
+  journal = {GitHub repository},<br></br>
+  howpublished = {\url{https://github.com/paulgavrikov/visualkeras}},<br></br>
+}
+<br></br>
