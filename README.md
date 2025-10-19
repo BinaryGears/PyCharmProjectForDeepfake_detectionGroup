@@ -27,6 +27,10 @@ Then run MakeCSV.py again: ```python MakeCSV.py```
 <br></br>
 This will make a .csv file that contains all of the file names and classes of each image. Run this script everytime you add or remove or edit images in the folders.
 <br></br>
+Running either one of the CNN files will start the training process. At the end, a csv file will be written out for the training and validation process that contains all of the data for each epoch. 
+<br></br>
+A model file in the hdf5 format, as well as the keras format, will be written in the modelfolder directory upon completion.
+<br></br>
 <br></br>
 
 Link to original repository: https://github.com/BinaryGears/KerasDeepFakeDetection/
