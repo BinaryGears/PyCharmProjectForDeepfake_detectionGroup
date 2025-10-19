@@ -26,7 +26,7 @@ Running either one of the CNN files will start the training process. At the end,
 <br></br>
 A model file in the hdf5 format, as well as the keras format, will be written in the modelfolder directory upon completion.
 <br></br>
-You can use the model files in a variety of ways, but the DeepFakeFinder.py file is an example of how to do so. You will have to resize the images and put them in the proper format, as this file does, for the models to work.
+You can use the model files in a variety of ways, but the deep_fake_finder.py file is an example of how to do so. You will have to resize the images and put them in the proper format, as this file does, for the models to work.
 <br></br>
 The heatmap files are used to show what pixels in the image are being used, and what size, at a certain step. The idea was that my CNN was using a much smaller part of the image, and focusing on things like the eyes, ears, and hands, on images that started out much larger than the original CNN was taking in.
 <br></br>
