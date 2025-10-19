@@ -34,11 +34,11 @@ Link to original repository: https://github.com/BinaryGears/KerasDeepFakeDetecti
 <br></br>
 <br></br>
 # KerasDeepFakeDetection Credits
-The original CNN model is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
+The original CNN is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
 <br></br>
 The PReLU function paper is here: https://arxiv.org/pdf/1502.01852
 <br></br>
-The Seperable Convolution layer paper: https://arxiv.org/pdf/1610.02357/1000
+The Seperable Convolution layer paper is here: https://arxiv.org/pdf/1610.02357/1000
 <br></br>
 Visualkeras citation: @misc{Gavrikov2020VisualKeras,<br></br>
   author = {Gavrikov, Paul},<br></br>
