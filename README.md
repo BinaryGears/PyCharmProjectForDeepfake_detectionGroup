@@ -1,4 +1,9 @@
-
+# Background of this project
+This project was completed for my Computer Science capstone. 
+<br></br>
+I found the research paper for the CNN refered to as the original CNN model that inspired me to make a better CNN that worked on larger images and used a smaller more relavant part of the image during training. 
+<br></br>
+<br></br>
 # KerasDeepFakeDetection Credits
 The original CNN model is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
 <br></br>
