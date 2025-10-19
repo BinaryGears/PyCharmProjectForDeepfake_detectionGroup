@@ -2,9 +2,9 @@
 # KerasDeepFakeDetection Credits
 The original CNN model is based on this paper: https://doi.org/10.1109/ACCESS.2023.3251417
 <br></br>
-I have no affiliation with the authors of the paper linked above, I only used this paper as a guideline.
-<br></br>
 The PReLU function paper is here: https://arxiv.org/pdf/1502.01852
+<br></br>
+The Seperable Convolution layer paper: https://arxiv.org/pdf/1610.02357/1000
 <br></br>
 # How to use
 Download PyCharm IDE and open the project folder. Configure the project to use the latest version of python 3.11
