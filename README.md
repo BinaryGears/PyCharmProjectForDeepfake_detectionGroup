@@ -23,7 +23,7 @@ If you don't want to use PyCharm, or are on some Linux distro, I would recommend
 <br></br>
 Run the MakeCSV.py file: ```python MakeCSV.py```
 <br></br>
-The MakeCSV.py file will make a folder called "images" in the same directory as MakeCSV.py. The "images" folder will have a folder called "test", "train", and "val". Inside the "test" and "val" folders are more folders called "fake_image" and "real_image". Put the real and fake images you have in their proper folders.
+The MakeCSV.py file will make a folder called "images" in the same directory as MakeCSV.py. The "images" folder will have a folder called "test", "train", and "val". Inside the "train" and "val" folders are more folders called "fake_image" and "real_image". Put the real and fake images you have in their proper folders.
 <br></br>
 Then run MakeCSV.py again: ```python MakeCSV.py```
 <br></br>
